@@ -1,0 +1,5 @@
+{
+  "/api/store/:type": "/store/:type",
+  "/categories/:token":"/categories",
+  "/products/Attributes/:id":"/Attributes"
+}

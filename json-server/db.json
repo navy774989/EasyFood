@@ -1,0 +1,506 @@
+{
+  "store": [
+    {
+      "close": false,
+      "Phone": "",
+      "Image": "",
+      "Type": "",
+      "GPS": {
+        "Longitude": "120",
+        "Laitude": "23",
+        "_id": "59e6ca195126a4225233640b"
+      },
+      "Evaluation": 4.3,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "1000",
+            "close": "2300",
+            "_id": "59e6ca195126a4225233640d"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "1000",
+            "close": "2300",
+            "_id": "59e6ca195126a4225233640e"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "1000",
+            "close": "2300",
+            "_id": "59e6ca195126a4225233640f"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "1000",
+            "close": "2300",
+            "_id": "59e6ca195126a42252336410"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "1000",
+            "close": "2300",
+            "_id": "59e6ca195126a42252336411"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "1000",
+            "close": "1400",
+            "_id": "59e6ca195126a42252336413"
+          },
+          {
+            "open": "1700",
+            "close": "2300",
+            "_id": "59e6ca195126a42252336412"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "1100",
+            "close": "2100",
+            "_id": "59e6ca195126a42252336414"
+          }
+        ]
+      },
+      "id": 1,
+      "title": "json-server",
+      "Address": {
+        "City": "嘉義市",
+        "Country": "東區",
+        "whole": "嘉義市東區中正路547號"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Attributes": {
+    "favor": [
+      "蕃茄口味",
+      "芒果口味",
+      "香蕉口味"
+    ],
+    "sweet": [
+      "半糖",
+      "全糖",
+      "微糖"
+    ],
+    "ice": [
+      "正常",
+      "少冰",
+      "微冰",
+      "去冰"
+    ]
+  },
+  "categories": {
+    "Code": 1,
+    "Data": [
+      {
+        "_id": "1",
+        "Title": "一場浪漫的約會",
+        "SubTitle": "享受夜空下的露天環境",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1502477639450-ccb7a6e7c391?dpr=1&auto=format&fit=crop&w=1650&q=60&cs=tinysrgb",
+        "FoodType": "約會",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "2",
+        "Title": "大自然的優雅時光",
+        "SubTitle": "享受風景帶來的典雅",
+        "Detail": "123",
+        "style": {},
+        "color": "gray",
+        "Image": "https://images.unsplash.com/photo-1439853949127-fa647821eba0?auto=format&fit=crop&w=668&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "風景",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "3",
+        "Title": "美式風格",
+        "SubTitle": "經典美式，全新風味",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1504185945330-7a3ca1380535?auto=format&fit=crop&w=642&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "美式",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "4",
+        "Title": "泰式料理",
+        "SubTitle": "辣與酸的完美結合",
+        "Detail": "123",
+        "style": {},
+        "color": "#A30000",
+        "Image": "https://images.unsplash.com/photo-1453831362806-3d5577f014a4?auto=format&fit=crop&w=1338&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "泰式",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "5",
+        "Title": "蔬食料理",
+        "SubTitle": "為地球盡一份心！",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?auto=format&fit=crop&w=1506&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "素食",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "6",
+        "Title": "悠閒下午茶",
+        "SubTitle": "享受咖啡與麵包的滋潤吧！",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1500816558239-6b91f4256ead?auto=format&fit=crop&w=662&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "下午茶",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "7",
+        "Title": "義式料理",
+        "SubTitle": "厚實的口感，清脆的餅皮",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1474600056930-615c3d706456?auto=format&fit=crop&w=1504&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "義式",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "8",
+        "Title": "法式料理",
+        "SubTitle": "就讓我們度過浪漫的一天吧！",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1448043552756-e747b7a2b2b8?auto=format&fit=crop&w=1249&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "法式",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "9",
+        "Title": "自助特餐",
+        "SubTitle": "遠離飢餓！大胃王來了！",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1485768071412-bded21c2be08?auto=format&fit=crop&w=1500&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "自助",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": "10",
+        "Title": "傳統美食",
+        "SubTitle": "外面的食物再好，還是會懷念家鄉吧？",
+        "Detail": "123",
+        "style": {},
+        "color": "white",
+        "Image": "https://images.unsplash.com/photo-1445979323117-80453f573b71?auto=format&fit=crop&w=1506&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+        "FoodType": "中式",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 11,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 12,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 13,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 14,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 15,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 16,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 17,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 18,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 19,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      },
+      {
+        "_id": 20,
+        "Title": "",
+        "SubTitle": "",
+        "Detail": 123,
+        "style": {},
+        "color": "<SyntaxError: Invalid or unexpected token>",
+        "Image": "",
+        "FoodType": "",
+        "Description": "說明",
+        "__v": 0,
+        "isRemove": false
+      }
+    ]
+  },
+  "Order": [
+    
+      {
+        "_id": 0,
+        "PayMethod": "Apple Pay",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 1,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 2,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 3,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 4,
+        "PayMethod": "Apple Pay",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 5,
+        "PayMethod": "Apple Pay",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 6,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 7,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 8,
+        "PayMethod": "Apple Pay",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      },
+      {
+        "_id": 9,
+        "PayMethod": "現金支付",
+        "PickTime": "",
+        "OrderStatus": [
+          {
+            "_id": "59ef19df86e456125a68225a",
+            "Remark": "",
+            "Status": "Finish"
+          }
+        ],
+        "IsMaster": false
+      }
+  ]
+}

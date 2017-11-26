@@ -1,0 +1,5364 @@
+{
+  "stores": [
+    {
+      "close": false,
+      "Phone": "(802) 596-2646",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.37263,
+        "Laitude": 25.051027
+      },
+      "Evaluation": 2.9,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          },
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 0,
+      "title": "Gushkool",
+      "Address": {
+        "City": "Cypress Court",
+        "Country": "Uzbekistan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(953) 441-3520",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.362343,
+        "Laitude": 25.053004
+      },
+      "Evaluation": 3.5,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 1,
+      "title": "Xurban",
+      "Address": {
+        "City": "Dahl Court",
+        "Country": "Gibraltar",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(893) 495-2533",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.352442,
+        "Laitude": 25.052136
+      },
+      "Evaluation": 3,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 2,
+      "title": "Interloo",
+      "Address": {
+        "City": "Oliver Street",
+        "Country": "Martinique",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(922) 579-2769",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.374905,
+        "Laitude": 25.058692
+      },
+      "Evaluation": 4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 3,
+      "title": "Musanpoly",
+      "Address": {
+        "City": "Grand Street",
+        "Country": "France",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(976) 502-2437",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.361992,
+        "Laitude": 25.057985
+      },
+      "Evaluation": 4.8,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 4,
+      "title": "Techade",
+      "Address": {
+        "City": "Ryerson Street",
+        "Country": "Croatia (Hrvatska)",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(970) 480-3762",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.37324,
+        "Laitude": 25.057486
+      },
+      "Evaluation": 3.6,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 5,
+      "title": "Solgan",
+      "Address": {
+        "City": "Maujer Street",
+        "Country": "Togo",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(895) 540-3110",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.362069,
+        "Laitude": 25.05801
+      },
+      "Evaluation": 2.8,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 6,
+      "title": "Vidto",
+      "Address": {
+        "City": "Boulevard Court",
+        "Country": "Thailand",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(903) 418-2229",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.361842,
+        "Laitude": 25.051916
+      },
+      "Evaluation": 4.2,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          },
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 7,
+      "title": "Dogspa",
+      "Address": {
+        "City": "Remsen Street",
+        "Country": "Armenia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(970) 424-2388",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.379606,
+        "Laitude": 25.051746
+      },
+      "Evaluation": 3.9,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 8,
+      "title": "Quonata",
+      "Address": {
+        "City": "Miami Court",
+        "Country": "Macau",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(980) 469-2161",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.373634,
+        "Laitude": 25.053798
+      },
+      "Evaluation": 3.3,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 9,
+      "title": "Peticular",
+      "Address": {
+        "City": "Dwight Street",
+        "Country": "Afghanistan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(816) 454-2112",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.359608,
+        "Laitude": 25.052656
+      },
+      "Evaluation": 4.7,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 10,
+      "title": "Lingoage",
+      "Address": {
+        "City": "Schweikerts Walk",
+        "Country": "St. Pierre and Miquelon",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(901) 460-3866",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.364316,
+        "Laitude": 25.050452
+      },
+      "Evaluation": 3.9,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 11,
+      "title": "Buzzness",
+      "Address": {
+        "City": "Wogan Terrace",
+        "Country": "Virgin Islands (British)",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(864) 586-3386",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.357543,
+        "Laitude": 25.056799
+      },
+      "Evaluation": 4.7,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 12,
+      "title": "Intergeek",
+      "Address": {
+        "City": "Polhemus Place",
+        "Country": "Myanmar",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(917) 507-3372",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "美式",
+      "GPS": {
+        "Longitude": 121.37064,
+        "Laitude": 25.058083
+      },
+      "Evaluation": 4.9,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 13,
+      "title": "Snips",
+      "Address": {
+        "City": "Emmons Avenue",
+        "Country": "Haiti",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(812) 595-2587",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.357136,
+        "Laitude": 25.057188
+      },
+      "Evaluation": 3.7,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 14,
+      "title": "Ovation",
+      "Address": {
+        "City": "Erasmus Street",
+        "Country": "United States",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(872) 484-2548",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.366044,
+        "Laitude": 25.054412
+      },
+      "Evaluation": 3.4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 15,
+      "title": "Microluxe",
+      "Address": {
+        "City": "River Street",
+        "Country": "Vatican City State (Holy See)",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(894) 495-2123",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "美式",
+      "GPS": {
+        "Longitude": 121.374054,
+        "Laitude": 25.0535
+      },
+      "Evaluation": 4.5,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 16,
+      "title": "Gazak",
+      "Address": {
+        "City": "Jackson Place",
+        "Country": "Brunei Darussalam",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(939) 592-3565",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.372417,
+        "Laitude": 25.054246
+      },
+      "Evaluation": 4.7,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 17,
+      "title": "Shopabout",
+      "Address": {
+        "City": "Bleecker Street",
+        "Country": "Malaysia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(929) 466-3200",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.37299,
+        "Laitude": 25.052531
+      },
+      "Evaluation": 3.3,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 18,
+      "title": "Aeora",
+      "Address": {
+        "City": "Ide Court",
+        "Country": "Cyprus",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(874) 508-2381",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "點心",
+      "GPS": {
+        "Longitude": 121.372806,
+        "Laitude": 25.052219
+      },
+      "Evaluation": 4.4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 19,
+      "title": "Protodyne",
+      "Address": {
+        "City": "Surf Avenue",
+        "Country": "Guinea-Bissau",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(849) 427-3509",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.356959,
+        "Laitude": 25.059538
+      },
+      "Evaluation": 4.4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 20,
+      "title": "Zomboid",
+      "Address": {
+        "City": "Kings Place",
+        "Country": "Samoa",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(854) 582-2063",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.355431,
+        "Laitude": 25.054397
+      },
+      "Evaluation": 2.8,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          },
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 21,
+      "title": "Stelaecor",
+      "Address": {
+        "City": "Ferris Street",
+        "Country": "Gabon",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(866) 516-3565",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "點心",
+      "GPS": {
+        "Longitude": 121.375157,
+        "Laitude": 25.057548
+      },
+      "Evaluation": 2.6,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 22,
+      "title": "Ludak",
+      "Address": {
+        "City": "Aurelia Court",
+        "Country": "El Salvador",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(804) 514-2467",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.36665,
+        "Laitude": 25.051178
+      },
+      "Evaluation": 2.6,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 23,
+      "title": "Qiao",
+      "Address": {
+        "City": "Vanderveer Place",
+        "Country": "Cayman Islands",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(829) 492-4000",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.360657,
+        "Laitude": 25.057346
+      },
+      "Evaluation": 3.3,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 24,
+      "title": "Sportan",
+      "Address": {
+        "City": "Crown Street",
+        "Country": "Malta",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(879) 563-2711",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "點心",
+      "GPS": {
+        "Longitude": 121.379766,
+        "Laitude": 25.056502
+      },
+      "Evaluation": 3.2,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 25,
+      "title": "Blurrybus",
+      "Address": {
+        "City": "Kaufman Place",
+        "Country": "Faroe Islands",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(996) 497-3818",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.358986,
+        "Laitude": 25.052773
+      },
+      "Evaluation": 4.3,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 26,
+      "title": "Zizzle",
+      "Address": {
+        "City": "Hubbard Place",
+        "Country": "Bermuda",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(872) 484-3193",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.36412,
+        "Laitude": 25.058872
+      },
+      "Evaluation": 4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 27,
+      "title": "Comcubine",
+      "Address": {
+        "City": "Bayard Street",
+        "Country": "Guam",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(880) 402-2147",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.359442,
+        "Laitude": 25.057875
+      },
+      "Evaluation": 3.4,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 28,
+      "title": "Biotica",
+      "Address": {
+        "City": "Harbor Lane",
+        "Country": "Turkmenistan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(937) 422-3758",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.351121,
+        "Laitude": 25.051835
+      },
+      "Evaluation": 3.9,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 29,
+      "title": "Aquafire",
+      "Address": {
+        "City": "Summit Street",
+        "Country": "Niue",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(819) 462-3225",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.376313,
+        "Laitude": 25.051
+      },
+      "Evaluation": 4.5,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 30,
+      "title": "Isopop",
+      "Address": {
+        "City": "Boerum Street",
+        "Country": "Venezuela",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(925) 494-2941",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "下午茶",
+      "GPS": {
+        "Longitude": 121.378742,
+        "Laitude": 25.05136
+      },
+      "Evaluation": 3.8,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 31,
+      "title": "Zensure",
+      "Address": {
+        "City": "Radde Place",
+        "Country": "Sudan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(954) 454-2537",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.366521,
+        "Laitude": 25.052985
+      },
+      "Evaluation": 3.7,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 32,
+      "title": "Neteria",
+      "Address": {
+        "City": "Baycliff Terrace",
+        "Country": "Dominica",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(910) 435-2627",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "下午茶",
+      "GPS": {
+        "Longitude": 121.37571,
+        "Laitude": 25.054963
+      },
+      "Evaluation": 3.4,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 33,
+      "title": "Cosmetex",
+      "Address": {
+        "City": "Friel Place",
+        "Country": "Liberia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(806) 549-2172",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "約會",
+      "GPS": {
+        "Longitude": 121.364021,
+        "Laitude": 25.059707
+      },
+      "Evaluation": 3.3,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          },
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 34,
+      "title": "Tellifly",
+      "Address": {
+        "City": "Atlantic Avenue",
+        "Country": "Zaire",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(991) 594-3961",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "點心",
+      "GPS": {
+        "Longitude": 121.363833,
+        "Laitude": 25.056848
+      },
+      "Evaluation": 3,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 35,
+      "title": "Ohmnet",
+      "Address": {
+        "City": "Ridgewood Place",
+        "Country": "United Kingdom",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(992) 600-3774",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.374484,
+        "Laitude": 25.051258
+      },
+      "Evaluation": 3.2,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 36,
+      "title": "Tourmania",
+      "Address": {
+        "City": "Bath Avenue",
+        "Country": "Finland",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(972) 455-2428",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.366134,
+        "Laitude": 25.057731
+      },
+      "Evaluation": 3.1,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 37,
+      "title": "Coriander",
+      "Address": {
+        "City": "Tudor Terrace",
+        "Country": "Saint Lucia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(868) 477-3985",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.369226,
+        "Laitude": 25.059042
+      },
+      "Evaluation": 3.5,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          },
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 38,
+      "title": "Coash",
+      "Address": {
+        "City": "Linden Boulevard",
+        "Country": "Indonesia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(932) 515-3479",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.370931,
+        "Laitude": 25.053134
+      },
+      "Evaluation": 3.4,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 39,
+      "title": "Junipoor",
+      "Address": {
+        "City": "Stratford Road",
+        "Country": "Romania",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(843) 458-2900",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.378172,
+        "Laitude": 25.057029
+      },
+      "Evaluation": 4.4,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 40,
+      "title": "Zillactic",
+      "Address": {
+        "City": "Johnson Avenue",
+        "Country": "Somalia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(967) 585-2772",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.362438,
+        "Laitude": 25.05967
+      },
+      "Evaluation": 3.2,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 41,
+      "title": "Andershun",
+      "Address": {
+        "City": "Forbell Street",
+        "Country": "Tonga",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(876) 561-3565",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "下午茶",
+      "GPS": {
+        "Longitude": 121.371226,
+        "Laitude": 25.055478
+      },
+      "Evaluation": 3.1,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 42,
+      "title": "Quiltigen",
+      "Address": {
+        "City": "Hoyt Street",
+        "Country": "Israel",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(874) 476-3548",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.371285,
+        "Laitude": 25.054365
+      },
+      "Evaluation": 4.8,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 43,
+      "title": "Kneedles",
+      "Address": {
+        "City": "Brooklyn Road",
+        "Country": "Australia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(986) 436-2416",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.374843,
+        "Laitude": 25.052074
+      },
+      "Evaluation": 3.6,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 44,
+      "title": "Bezal",
+      "Address": {
+        "City": "Lincoln Place",
+        "Country": "Fiji",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(942) 454-2283",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.357446,
+        "Laitude": 25.052708
+      },
+      "Evaluation": 4.7,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 45,
+      "title": "Netplax",
+      "Address": {
+        "City": "Olive Street",
+        "Country": "New Zealand",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(833) 518-3395",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.363406,
+        "Laitude": 25.055964
+      },
+      "Evaluation": 4.6,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 46,
+      "title": "Atomica",
+      "Address": {
+        "City": "Provost Street",
+        "Country": "Bulgaria",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(839) 415-3487",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "點心",
+      "GPS": {
+        "Longitude": 121.361475,
+        "Laitude": 25.05332
+      },
+      "Evaluation": 3.8,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 47,
+      "title": "Cofine",
+      "Address": {
+        "City": "Lorimer Street",
+        "Country": "Algeria",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(855) 526-3482",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.352992,
+        "Laitude": 25.056785
+      },
+      "Evaluation": 5,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 48,
+      "title": "Parleynet",
+      "Address": {
+        "City": "Joval Court",
+        "Country": "China",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(984) 511-2101",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.358286,
+        "Laitude": 25.056849
+      },
+      "Evaluation": 4.3,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 49,
+      "title": "Eyewax",
+      "Address": {
+        "City": "Hubbard Street",
+        "Country": "Ethiopia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(948) 504-3881",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.362869,
+        "Laitude": 25.054472
+      },
+      "Evaluation": 4.2,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 50,
+      "title": "Duflex",
+      "Address": {
+        "City": "Meadow Street",
+        "Country": "Guadeloupe",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(925) 579-3024",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.378015,
+        "Laitude": 25.051545
+      },
+      "Evaluation": 3.1,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 51,
+      "title": "Accupharm",
+      "Address": {
+        "City": "Everett Avenue",
+        "Country": "Saudi Arabia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(906) 510-3888",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.350846,
+        "Laitude": 25.05612
+      },
+      "Evaluation": 4.2,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 52,
+      "title": "Endipine",
+      "Address": {
+        "City": "Oriental Boulevard",
+        "Country": "Moldova",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(901) 462-2607",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.350179,
+        "Laitude": 25.050604
+      },
+      "Evaluation": 3.2,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          },
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 53,
+      "title": "Premiant",
+      "Address": {
+        "City": "Liberty Avenue",
+        "Country": "Sweden",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(965) 402-2178",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.358369,
+        "Laitude": 25.056038
+      },
+      "Evaluation": 3.8,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 54,
+      "title": "Jumpstack",
+      "Address": {
+        "City": "Garden Street",
+        "Country": "Qatar",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(852) 523-2616",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.37312,
+        "Laitude": 25.053332
+      },
+      "Evaluation": 3.3,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 55,
+      "title": "Tubesys",
+      "Address": {
+        "City": "Lincoln Terrace",
+        "Country": "Bahamas",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(914) 523-3912",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "美式",
+      "GPS": {
+        "Longitude": 121.371335,
+        "Laitude": 25.05792
+      },
+      "Evaluation": 5,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 56,
+      "title": "Gink",
+      "Address": {
+        "City": "Melba Court",
+        "Country": "Aruba",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(909) 573-3824",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.373858,
+        "Laitude": 25.05083
+      },
+      "Evaluation": 4.9,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          },
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 57,
+      "title": "Rockyard",
+      "Address": {
+        "City": "Canal Avenue",
+        "Country": "Mauritius",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(825) 585-2699",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.351752,
+        "Laitude": 25.052222
+      },
+      "Evaluation": 3.7,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 58,
+      "title": "Empirica",
+      "Address": {
+        "City": "Story Street",
+        "Country": "Dominican Republic",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(887) 407-2267",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.371711,
+        "Laitude": 25.05578
+      },
+      "Evaluation": 2.7,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 59,
+      "title": "Remotion",
+      "Address": {
+        "City": "Clarkson Avenue",
+        "Country": "Honduras",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(900) 436-3598",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "義式",
+      "GPS": {
+        "Longitude": 121.365127,
+        "Laitude": 25.056974
+      },
+      "Evaluation": 3.8,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 60,
+      "title": "Entropix",
+      "Address": {
+        "City": "McKibbin Street",
+        "Country": "Namibia",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(987) 447-3880",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.376941,
+        "Laitude": 25.05528
+      },
+      "Evaluation": 4.2,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          },
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 61,
+      "title": "Zillar",
+      "Address": {
+        "City": "Powell Street",
+        "Country": "Antarctica",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(852) 510-2869",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "下午茶",
+      "GPS": {
+        "Longitude": 121.365591,
+        "Laitude": 25.055276
+      },
+      "Evaluation": 3.7,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 62,
+      "title": "Comstruct",
+      "Address": {
+        "City": "Kansas Place",
+        "Country": "Nauru",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(976) 573-3929",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.372376,
+        "Laitude": 25.058444
+      },
+      "Evaluation": 4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 63,
+      "title": "Ultrimax",
+      "Address": {
+        "City": "Box Street",
+        "Country": "Seychelles",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(874) 525-2689",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "法式",
+      "GPS": {
+        "Longitude": 121.356062,
+        "Laitude": 25.053156
+      },
+      "Evaluation": 3.7,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 64,
+      "title": "Cinaster",
+      "Address": {
+        "City": "Fayette Street",
+        "Country": "Angola",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(940) 567-2008",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.361651,
+        "Laitude": 25.056766
+      },
+      "Evaluation": 3.6,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 65,
+      "title": "Zosis",
+      "Address": {
+        "City": "Degraw Street",
+        "Country": "Egypt",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(845) 553-2715",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.363279,
+        "Laitude": 25.052371
+      },
+      "Evaluation": 3.5,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 66,
+      "title": "Koogle",
+      "Address": {
+        "City": "Stockton Street",
+        "Country": "Equatorial Guinea",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(914) 458-3540",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.361442,
+        "Laitude": 25.050869
+      },
+      "Evaluation": 3.7,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 67,
+      "title": "Delphide",
+      "Address": {
+        "City": "Chester Court",
+        "Country": "Anguilla",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(992) 429-2040",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.357113,
+        "Laitude": 25.057761
+      },
+      "Evaluation": 3.2,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "id": 68,
+      "title": "Scentric",
+      "Address": {
+        "City": "Bedell Lane",
+        "Country": "Guyana",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(906) 470-3221",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "下午茶",
+      "GPS": {
+        "Longitude": 121.359308,
+        "Laitude": 25.055969
+      },
+      "Evaluation": 4,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          },
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 69,
+      "title": "Dognosis",
+      "Address": {
+        "City": "Havens Place",
+        "Country": "Kazakhstan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(907) 503-2954",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.370096,
+        "Laitude": 25.057526
+      },
+      "Evaluation": 2.9,
+      "Price": 2,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 70,
+      "title": "Myopium",
+      "Address": {
+        "City": "Bay Avenue",
+        "Country": "Andorra",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(807) 499-2161",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "日式",
+      "GPS": {
+        "Longitude": 121.369004,
+        "Laitude": 25.051574
+      },
+      "Evaluation": 4.8,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 71,
+      "title": "Uxmox",
+      "Address": {
+        "City": "Gates Avenue",
+        "Country": "Japan",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(922) 495-2138",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.370347,
+        "Laitude": 25.053043
+      },
+      "Evaluation": 3.2,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 72,
+      "title": "Zenolux",
+      "Address": {
+        "City": "Furman Street",
+        "Country": "Viet Nam",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(923) 579-3890",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "中式",
+      "GPS": {
+        "Longitude": 121.364874,
+        "Laitude": 25.051735
+      },
+      "Evaluation": 4,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          },
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 73,
+      "title": "Isologia",
+      "Address": {
+        "City": "McKibben Street",
+        "Country": "Saint Kitts and Nevis",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(903) 566-3624",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.367772,
+        "Laitude": 25.056361
+      },
+      "Evaluation": 3.3,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          },
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 74,
+      "title": "Equitax",
+      "Address": {
+        "City": "Front Street",
+        "Country": "Grenada",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(979) 597-2381",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "風景",
+      "GPS": {
+        "Longitude": 121.372088,
+        "Laitude": 25.055973
+      },
+      "Evaluation": 2.6,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          },
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 75,
+      "title": "Crustatia",
+      "Address": {
+        "City": "Vine Street",
+        "Country": "Bosnia and Herzegovina",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(944) 453-3797",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.359135,
+        "Laitude": 25.053572
+      },
+      "Evaluation": 3.2,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          },
+          {
+            "open": "11:00",
+            "close": "20:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 76,
+      "title": "Splinx",
+      "Address": {
+        "City": "Huron Street",
+        "Country": "Vanuatu",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(972) 482-2915",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "素食",
+      "GPS": {
+        "Longitude": 121.363727,
+        "Laitude": 25.05251
+      },
+      "Evaluation": 4.1,
+      "Price": 1,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "12:00",
+            "close": "20:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "id": 77,
+      "title": "Rodemco",
+      "Address": {
+        "City": "Carroll Street",
+        "Country": "Cuba",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(804) 572-3698",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "自助",
+      "GPS": {
+        "Longitude": 121.376994,
+        "Laitude": 25.058397
+      },
+      "Evaluation": 2.7,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "21:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "12:00",
+            "close": "21:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "10:00",
+            "close": "21:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          },
+          {
+            "open": "11:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "9:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "id": 78,
+      "title": "Omnigog",
+      "Address": {
+        "City": "Gerry Street",
+        "Country": "Mozambique",
+        "whole": "嘉義市東區中正路547號"
+      }
+    },
+    {
+      "close": false,
+      "Phone": "(857) 576-2320",
+      "Image": "https://images.unsplash.com/photo-1493274366568-b608e3895174?auto=format&fit=crop&w=1308&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D",
+      "Type": "泰式",
+      "GPS": {
+        "Longitude": 121.35355,
+        "Laitude": 25.059154
+      },
+      "Evaluation": 4.3,
+      "Price": 3,
+      "OpenTime": {
+        "Sat": [
+          {
+            "open": "9:00",
+            "close": "20:00"
+          }
+        ],
+        "Fri": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "Thu": [
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Wed": [
+          {
+            "open": "11:00",
+            "close": "19:00"
+          }
+        ],
+        "Tue": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "Mon": [
+          {
+            "open": "11:00",
+            "close": "18:00"
+          },
+          {
+            "open": "9:00",
+            "close": "18:00"
+          }
+        ],
+        "Sun": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "id": 79,
+      "title": "Lyria",
+      "Address": {
+        "City": "Nassau Street",
+        "Country": "Slovak Republic",
+        "whole": "嘉義市東區中正路547號"
+      }
+    }
+  ]
+}
